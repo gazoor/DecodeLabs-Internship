@@ -40,7 +40,3 @@ SQL Data Analysis
 - Top Selling Products
 - Orders by Year
 
----
-
-## Author:
-Ahmed
