@@ -35,5 +35,6 @@ Data Visualization & Dashboard
 
 ## Files Included:
 - Dashboard.pbix
-- Dashboard Screenshot.png
+## Dashboard Preview
+![Dashboard Screenshot](Screenshot%202026-05-31%20175228.png)
 - README.md
